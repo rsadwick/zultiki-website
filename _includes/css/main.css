@@ -343,6 +343,15 @@ footer .footer-below {
     background-color: #{{ site.color.secondary-dark }};
 }
 
+.footer-below a{
+    color: #fff;
+    text-decoration: underline;
+}
+
+.footer-below a:hover{
+    color: #2E0927;
+}
+
 .btn-social {
     display: inline-block;
     width: 50px;

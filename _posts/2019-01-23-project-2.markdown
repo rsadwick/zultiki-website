@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-title: Screen Shot 1
-category: Game Development
-description: Screenshots are coming soon
+date: 2019-01-23
+img: ladder.jpg
+alt: image of hero guarding town
+title: Screen Shot 2
+description: A guard on top of the area where archers are stationed.
 
 ---
