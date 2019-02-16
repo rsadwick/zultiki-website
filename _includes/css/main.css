@@ -464,3 +464,16 @@ footer .footer-below {
     width: 162px;
     fill: #FF8C00;
 }
+
+.credits a{
+    color: #FF8C00;
+}
+
+.credits a:hover{
+    color: #FF2D00;
+}
+
+footer .separator {
+    opacity: .3;
+    margin: 0 10px;
+}

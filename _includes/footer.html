@@ -30,7 +30,7 @@
 		                    {% endfor %}
                         </ul>
                     </div>
-                    <div class="footer-col col-md-4">
+                    <div class="footer-col col-md-4 credits">
                         <h3>{{ site.footer.credits }}</h3>
                         {% include 3ee_logo.html %}
                         <p>{{ site.credits }}</p>
@@ -42,7 +42,15 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; <a href="https://3ee.com">{{ site.footer.copyright }}</a> 20{{ site.time | date: '%y' }}
+                        Copyright &copy; <a href="https://3ee.com">{{ site.footer.copyright }}</a> 20{{ site.time | date: '%y' }} 
+                        <span class="separator">|</span>
+                        <a href="https://3ee.com/privacy">Privacy</a>
+                        <span class="separator">|</span>
+                        <a href="https://3ee.com/terms/">Terms of Service</a>
+                        <span class="separator">|</span>
+                        <a href="https://3ee.com/conduct/">Code of Conduct</a>
+                        <span class="separator">|</span>
+                        <a href="https://3ee.com/accessibility/">Accessibility</a>
                     </div>
                 </div>
             </div>
