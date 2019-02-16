@@ -4,7 +4,7 @@ email: support@3ee.com
 url: https://zultiki.com
 description: "Prepare yourself for a legendary adventure full of battles, healing, and exploration."
 keywords: "rpg, healing, adventure, tanking"
-skills: "Discover the Legendary Power of Healing"
+skills: "Take off on a legendary adventure that focuses on healing, tanking, and utility."
 meta_author: Sadwick Ryan
 
 # Google webmaster tools
@@ -34,7 +34,7 @@ color:
 footer:
   copyright: 3ee Games
   location: Florida
-  social: Around the Web
+  social: Community
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -43,6 +43,8 @@ social:
     url: http://twitter.com/rsadwick
   - title: facebook
     url: https://www.facebook.com/3eecom/
+  - title: youtube
+    url: https://www.youtube.com/channel/UCEdioq0kz1rYAY5Z9bSxiNg
 
 # Postal address (add as many lines as necessary)
 address:

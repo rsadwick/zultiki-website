@@ -2,10 +2,9 @@
 layout: default
 modal-id: 1
 date: 2019-01-22
-img: cabin.png
-alt: image-alt
-title: Screen Shot 1
-category: Game Development
-description: Screenshots are coming soon
+img: level_editor.png
+alt: Image of level editor
+title: Level Editor
+description: Screenshot from the first quest hub in Tiled.
 
 ---
