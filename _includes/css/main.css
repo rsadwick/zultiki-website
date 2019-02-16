@@ -459,3 +459,8 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.thirdeye-svg{
+    width: 162px;
+    fill: #FF8C00;
+}
